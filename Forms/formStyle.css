@@ -1,0 +1,20 @@
+h1{
+    
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+label {
+    /* color: darkmagenta; */
+    font-weight: bold;
+}
+
+body {
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+.container {
+    background: cornsilk;
+}
